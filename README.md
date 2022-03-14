@@ -4,7 +4,7 @@ This program identifies the color of the pixel where mouse cursor is present.
 
 <br>
 For video on how to install and setup-<br>
-link🔗 - 
+link🔗 - https://www.youtube.com/watch?v=-VJVHqhnKwc
 <br>
 
 ## Features:
@@ -15,4 +15,4 @@ link🔗 -
 
 ## Screenshot
 
-![Main](https://github.com/RaiiSaurabh/Color_Identification/Screenshot/Screenshot.gif)
+![Main](https://github.com/RaiiSaurabh/Color_Identification/tree/main/Screenshot/Screenshot.gif)
